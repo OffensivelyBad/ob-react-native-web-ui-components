@@ -8,6 +8,9 @@ React Native Web UI Components is a library of customized [React Native](https:/
 
 See this library in production at https://www.carelulu.com
 
+NOTE: this package was forked from https://github.com/CareLuLu/react-native-web-ui-components - all credit to that repo.
+This version of the package simply removes a problematic library so that non-Expo apps can use it, without MultiSlider.
+
 ## Table of Contents
 
 * [Documentation](#documentation)

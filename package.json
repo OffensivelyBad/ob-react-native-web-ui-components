@@ -1,6 +1,7 @@
 {
-  "name": "react-native-web-ui-components",
-  "version": "3.1.0",
+  "name": "ob-react-native-web-ui-components",
+  "version": "3.2.0",
+  "description": "A library of react-native-web components forked from https://github.com/CareLuLu/react-native-web-ui-components",
   "private": false,
   "main": "index.js",
   "scripts": {
@@ -17,11 +18,11 @@
   "jest": {
     "preset": "react-native"
   },
-  "author": "Gabriel Marques <gabriel@carelulu.com>",
+  "author": "Shawn Roller <offensivelybad@yahoo.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CareLuLu/react-native-web-ui-components"
+    "url": "https://github.com/OffensivelyBad/react-native-web-ui-components"
   },
   "devDependencies": {
     "@babel/cli": "7.10.5",
