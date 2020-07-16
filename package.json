@@ -54,7 +54,6 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^10.0.4",
-    "@ptomasroos/react-native-multi-slider": "https://github.com/CareLuLu-Gabriel/react-native-multi-slider",
     "@react-native-community/datetimepicker": "^2.4.0",
     "@tippy.js/react": "^3.0.0",
     "expo-blur": "^8.0.0",
